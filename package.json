@@ -1,0 +1,18 @@
+{
+  "name": "speedkeeper",
+  "version": "0.1.0",
+  "description": "This is the application that is meant to help keep the macOS running on AMD G-Series processors running smooth, helping with the music drift",
+  "main": "main.js",
+  "scripts": {
+    "test": "xo",
+    "fix": "xo --fix",
+    "dev": "nodemon --ignore assets/ --exec electron main.js"
+  },
+  "author": "Astrihale",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.2.3",
+    "nodemon": "^2.0.7",
+    "xo": "^0.37.1"
+  }
+}
