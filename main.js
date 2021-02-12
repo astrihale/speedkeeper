@@ -3,7 +3,7 @@ const {Worker, isMainThread} = require('worker_threads');
 if (!isMainThread) {
 	setInterval(() => {
 		1 + 1;
-	}, 0.001);
+	}, 1);
 	return;
 }
 
