@@ -120,3 +120,6 @@ dist
 
 # macOS
 .DS_Store
+
+# Any kind of release
+*speedkeeper*/
