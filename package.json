@@ -7,7 +7,7 @@
     "test": "xo",
     "fix": "xo --fix",
     "dev": "nodemon --ignore assets/ --exec electron main.js",
-    "package": "electron-packager ."
+    "package": "electron-packager . --icon=assets/logo.icns"
   },
   "author": "Astrihale",
   "license": "ISC",
