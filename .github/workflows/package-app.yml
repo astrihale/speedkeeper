@@ -48,6 +48,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./speedkeeper-darwin-x64/speedkeeper.app
+          asset_path: /Users/runner/work/speedkeeper/speedkeeper/speedkeeper-darwin-x64/speedkeeper.app
           asset_name: speedkeeper.app
           asset_content_type: application/octet-stream
