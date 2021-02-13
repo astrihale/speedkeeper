@@ -123,3 +123,4 @@ dist
 
 # Any kind of release
 *speedkeeper*/
+*.zip/
