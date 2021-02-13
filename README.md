@@ -12,6 +12,7 @@ running macOS using [AMD-OSX/AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla
 
 This is a small tray application that sits in your status bar with its heart broken that you're struggling with this
 issue :C
+
 ![Speedkeeper Tray Application](./docs/Speedkeeper.png)
 
 ## Try it yourself!
