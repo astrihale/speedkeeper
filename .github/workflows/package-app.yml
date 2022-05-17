@@ -14,7 +14,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
-          node-version: 15.x
+          node-version: 16.x
       - name: Extract version
         id: extract_version
         uses: Saionaro/extract-package-version@v1.0.6
