@@ -1,6 +1,6 @@
 {
   "name": "speedkeeper",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "This is the application that is meant to help keep the macOS running on AMD G-Series processors running smooth, helping with the music drift",
   "main": "main.js",
   "scripts": {
