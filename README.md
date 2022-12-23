@@ -7,6 +7,12 @@
     /_/                                  /_/                 
 ```
 
+# DEPRICATED
+This project has been archived. A new better fix has been introduced.
+Thanks to [Shaneee](https://github.com/acidanthera/OpenCorePkg/commit/8cdab5b4ff065e5bbfc8abf09c92847617687681), now you can just use OpenCore >=0.8.7 and the audio will function perfectly fine.
+
+## Original README
+
 This software project is a small application that helps with the issue of audio drift issue on G-series processors
 running macOS using [AMD-OSX/AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla) patches.
 
